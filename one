@@ -1,1 +1,9 @@
-hi rupaliii
+#include<stdio.h>
+main()
+{
+  printf("good morning\n");
+  printf("how are you\n");
+  
+
+
+}
